@@ -1,5 +1,5 @@
 <!-- 헤더: 프로필 웰컴 이미지 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0F4C81&height=270&section=header&text=Hi%20There!&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=62&descAlign=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=78f7df&height=270&section=header&text=Hello%20World!&fontSize=70&animation=fadeIn&fontAlignY=40)
 
 <div align="center">
 
@@ -10,8 +10,8 @@
 
 <h2>☁️ SNS & Contact ☁️</h2>
 
-<a href="https://instagram.com/your_instagram" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-<a href="https://yourblog.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-222222?style=for-the-badge&logo=githubpages&logoColor=white"></a>
+<a href="https://instagram.com/0_in_j" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href="https://velog.io/@0_in_j/posts" target="_blank"><img src="https://img.shields.io/badge/Blog-222222?style=for-the-badge&logo=githubpages&logoColor=white"></a>
 <br>
 <p>Email: your@email.com</p>
 
