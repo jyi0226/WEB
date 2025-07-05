@@ -7,7 +7,24 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Welcome!&fontSize=48" />
 </div>
+## 🛠️ Tech Stack
 
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCODE-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+</p>
+
+- **Frontend:** React, JavaScript(ES6+), HTML5, CSS3
+- **Backend:** FastAPI, Python
+- **Tools:** Git, VSCode, Figma, Notion
+- **협업/문서:** Notion, GitHub Projects
 ### 👨‍💻 About Me
 - **Frontend 개발자 지망생** & **법학도**
 - **React, JavaScript, HTML/CSS**를 중심으로 웹 프로젝트 진행  
