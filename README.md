@@ -1,65 +1,75 @@
-# 👋 안녕하세요, 동생아입니다!
+<!-- 헤더: 프로필 웰컴 이미지 -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0F4C81&height=270&section=header&text=Hi%20There!&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=62&descAlign=60)
 
-### 개발자 지망생 | 법과대학 재학
+<div align="center">
+
+<!-- 방문자수 카운터 -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyour_github_id&count_bg=%235078D2&title_bg=%23040404&icon=github.svg&icon_color=%235078D2&title=hits&edge_flat=false)](https://github.com/your_github_id)
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Welcome!&fontSize=48" />
-</div>
-## 🛠️ Tech Stack
+<h2>☁️ SNS & Contact ☁️</h2>
 
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCODE-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-</p>
-
-- **Frontend:** React, JavaScript(ES6+), HTML5, CSS3
-- **Backend:** FastAPI, Python
-- **Tools:** Git, VSCode, Figma, Notion
-- **협업/문서:** Notion, GitHub Projects
-### 👨‍💻 About Me
-- **Frontend 개발자 지망생** & **법학도**
-- **React, JavaScript, HTML/CSS**를 중심으로 웹 프로젝트 진행  
-- 법률적 사고와 개발적 논리 모두 갖추기 위해 노력 중  
-- 기술로 사회 문제(특히, 정보접근성과 공공성)을 해결하는 데 관심  
-- 꼼꼼함과 논리적 사고를 무기로 성장 중
-
-### 🔥 My Skills
-- **Frontend**: React, JavaScript, HTML5, CSS3
-- **Backend**: FastAPI (Python)
-- **Tools**: Git, VSCode, Figma, Notion
-- **Etc**: 법률정보 리서치, 문서작성, 데이터 분석 기초
-
-### 🛠️ 프로젝트 경험
-- **SSCLibrary-Kiosk**: 대학 동아리 대상 도서/물품 대여 키오스크 시스템 (React + FastAPI)
-- **STEND/숨 프로젝트**: WiFi Sensing 기반 수면 분석 시스템, AI & IoT 융합 스마트홈  
-  (임베디드 SW 경진대회, 2024~2025)
-
-### 📚 공부하고 있는 것
-- JavaScript 심화 문법 & 비동기 처리
-- Node-RED, IoT 자동화
-- 법학(노동법, 상법, 환경법 등)과 IT의 접점
-
-### 💬 연락
-- Email: [your@email.com]
-- Blog: [Velog, Notion 등 링크]  
-- **협업 제안/스터디/멘토링 등 언제든 환영합니다!**
+<a href="https://instagram.com/your_instagram" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href="https://yourblog.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-222222?style=for-the-badge&logo=githubpages&logoColor=white"></a>
+<br>
+<p>Email: your@email.com</p>
 
 ---
 
-<!-- 뱃지/방문자 카운트 등 넣고 싶으면 아래 참고 -->
-<!--
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=github.com/your_id&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
--->
+<h2>⚒️ Tech Stack ⚒️</h2>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"/>
+<h4>💡 OS</h4>
+<img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=Windows&logoColor=white">
+<img src="https://img.shields.io/badge/Ubuntu-FCC624?style=for-the-badge&logo=ubuntu&logoColor=white">
+
+<h4>💡 Frontend</h4>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+<h4>💡 Backend</h4>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+<h4>💡 Embedded & IoT</h4>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=esphome&logoColor=white">
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white">
+
+<h4>💡 Tools</h4>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+<img src="https://img.shields.io/badge/Diagrams.net-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white">
+
+<h4>💡 Used at least once</h4>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
+---
+
+<br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=your_solvedac_id)](https://solved.ac/your_solvedac_id)
+<br>
+![your_github_id's GitHub stats](https://github-readme-stats.vercel.app/api?username=your_github_id&show_icons=true&theme=tokyonight)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_id&layout=compact&theme=tokyonight)
+<br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=your_github_id&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br>
+
+---
+
+<!-- 푸터: 굿바이 이미지 -->
+![footer](https://capsule-render.vercel.app/api?type=wave&color=658caf&height=140&section=footer&text=Have%20a%20Nice%20Day!&fontSize=60)
+
 </div>
